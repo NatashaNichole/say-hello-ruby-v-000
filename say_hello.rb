@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def Greeting(name)
+  puts "Hello #{name}!"
+end
